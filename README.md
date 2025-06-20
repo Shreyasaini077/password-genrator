@@ -1,2 +1,2 @@
 # password-genrator
-this is my 3rd python project
+this is my 3rd python project codsoft internship
